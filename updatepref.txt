@@ -2,6 +2,7 @@
 OBWhatsappV47
 📆 6-08-2022
 🏷 Base: 2.22.10.73
+التحديث في التلجرام علئ شكل ملف
 ⭕️ What's news in 47
 ☑️ [Fixed] Group privacy not in group settings
 ☑️ [Fixed] Hidden chat show in search 
